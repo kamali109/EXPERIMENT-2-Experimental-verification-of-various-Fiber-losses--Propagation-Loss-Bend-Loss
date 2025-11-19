@@ -32,17 +32,17 @@ To measure propagation and bending losses for two wavelengths in plastic fiber.
 
 ### Propagation Loss
 
-| Fiber Length | Input Amplitude (V) | Output Amplitude (V) |
-|--------------|---------------------|------------------------|
-|        1               5                      10
-|        0.5             5           |       14
+| Fiber Length     | Input Amplitude (V)        | Output Amplitude (V)     |
+|------------------|----------------------------|--------------------------|
+|    1             |       5                    |       10                 |
+|    0.5           |       5                    |       14                 |
 
 ### Bending Loss
 
 | Bending Diameter | Input Amplitude (V) | Output Amplitude (V) |
-|------------------|---------------------|------------------------|
-|   1 for 8cm      |  5                   |    10.3                    
-    0.5 for 6.4cm     5                        9.76
+|------------------|----------------------------|--------------------------|
+|    1     for 8cm |       5                    |       10.3               |
+|    0.5  for 6.4cm|       5                    |       9.76               |
     
 **Result:** 
 
